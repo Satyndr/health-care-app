@@ -1,50 +1,90 @@
-# Welcome to your Expo app 👋
+# 🏥 Healthcare App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native-based mobile app that empowers users to take control of their health and wellness through smart tools like medication reminders, virtual consultations, fitness tracking, and medical education resources. This app is made for patients and doctors both.
 
-## Get started
+<div style="display: flex; flex-direction: 'row';">
+<img src="./screenshots/1.jpg" width=30%>
+<img src="./screenshots/2.jpg" width=30%>
+<img src="./screenshots/3.jpg" width=30%>
+</div>
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 📱 Features
 
-2. Start the app
+### 🔔 Medication Management
 
-   ```bash
-   npx expo start
-   ```
+- Medication reminders with customizable alerts
+- Prescription tracker with history log
+- Dosage scheduling and adherence monitoring
 
-In the output, you'll find options to open the app in a
+### 🧑‍⚕️ Patient Engagement
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Schedule, cancel, and track appointments
+- Share health data with doctors securely
+- Post-appointment feedback for continuous improvement
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 📚 Medical Education
 
-## Get a fresh project
+- Symptom checker
+- Blog articles on health tips and updates
+- Comprehensive disease and treatment guides
+- Community forum for doctors and patients
 
-When you're ready, run:
+### 💬 Virtual Consultation
+
+- Secure chat with doctors
+- HD video calling for virtual appointments
+- Generate and store e-prescriptions
+
+### 🏃‍♀️ Fitness & Wellness Tracking
+
+- Daily activity tracking (steps, calories, distance)
+- Personalized workout plans
+- Nutrition and diet guide
+- Sleep pattern monitoring
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React Native
+- **State Management:** Context API
+- **Navigation:** React Navigation
+
+---
+
+## 🚀 Installation
 
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/healthcare-app.git
+npm install
+npm run start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📸 Screenshots
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<div style="display: flex; flex-direction: 'row';">
+<img src="./screenshots/4.jpg" width=30%>
+<img src="./screenshots/5.jpg" width=30%>
+<img src="./screenshots/6.jpg" width=30%>
+<img src="./screenshots/7.jpg" width=30%>
+<img src="./screenshots/8.jpg" width=30%>
+<img src="./screenshots/9.jpg" width=30%>
+<img src="./screenshots/10.jpg" width=30%>
+<img src="./screenshots/11.jpg" width=30%>
+<img src="./screenshots/12.jpg" width=30%>
+<img src="./screenshots/13.jpg" width=30%>
+<img src="./screenshots/14.jpg" width=30%>
+<img src="./screenshots/15.jpg" width=30%>
+<img src="./screenshots/16.jpg" width=30%>
+<img src="./screenshots/17.jpg" width=30%>
+<img src="./screenshots/18.jpg" width=30%>
+<img src="./screenshots/19.jpg" width=30%>
+<img src="./screenshots/20.jpg" width=30%>
+<img src="./screenshots/21.jpg" width=30%>
+<img src="./screenshots/22.jpg" width=30%>
+<img src="./screenshots/23.jpg" width=30%>
+<img src="./screenshots/24.jpg" width=30%>
+<img src="./screenshots/25.jpg" width=30%>
+</div>
