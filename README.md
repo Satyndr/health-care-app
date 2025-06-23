@@ -3,9 +3,9 @@
 A React Native-based mobile app that empowers users to take control of their health and wellness through smart tools like medication reminders, virtual consultations, fitness tracking, and medical education resources. This app is made for patients and doctors both.
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/1.jpg" width=30%>
-<img src="./screenshots/2.jpg" width=30%>
-<img src="./screenshots/3.jpg" width=30%>
+<img src="./screenshots/img1.jpg" width=30%>
+<img src="./screenshots/img2.jpg" width=30%>
+<img src="./screenshots/img3.jpg" width=30%>
 </div>
 
 ---
@@ -65,26 +65,26 @@ npm run start
 ## 📸 Screenshots
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/4.jpg" width=30%>
-<img src="./screenshots/5.jpg" width=30%>
-<img src="./screenshots/6.jpg" width=30%>
-<img src="./screenshots/7.jpg" width=30%>
-<img src="./screenshots/8.jpg" width=30%>
-<img src="./screenshots/9.jpg" width=30%>
-<img src="./screenshots/10.jpg" width=30%>
-<img src="./screenshots/11.jpg" width=30%>
-<img src="./screenshots/12.jpg" width=30%>
-<img src="./screenshots/13.jpg" width=30%>
-<img src="./screenshots/14.jpg" width=30%>
-<img src="./screenshots/15.jpg" width=30%>
-<img src="./screenshots/16.jpg" width=30%>
-<img src="./screenshots/17.jpg" width=30%>
-<img src="./screenshots/18.jpg" width=30%>
-<img src="./screenshots/19.jpg" width=30%>
-<img src="./screenshots/20.jpg" width=30%>
-<img src="./screenshots/21.jpg" width=30%>
-<img src="./screenshots/22.jpg" width=30%>
-<img src="./screenshots/23.jpg" width=30%>
-<img src="./screenshots/24.jpg" width=30%>
-<img src="./screenshots/25.jpg" width=30%>
+<img src="./screenshots/img4.jpg" width=30%>
+<img src="./screenshots/img5.jpg" width=30%>
+<img src="./screenshots/img6.jpg" width=30%>
+<img src="./screenshots/img7.jpg" width=30%>
+<img src="./screenshots/img8.jpg" width=30%>
+<img src="./screenshots/img9.jpg" width=30%>
+<img src="./screenshots/img10.jpg" width=30%>
+<img src="./screenshots/img11.jpg" width=30%>
+<img src="./screenshots/img12.jpg" width=30%>
+<img src="./screenshots/img13.jpg" width=30%>
+<img src="./screenshots/img14.jpg" width=30%>
+<img src="./screenshots/img15.jpg" width=30%>
+<img src="./screenshots/img16.jpg" width=30%>
+<img src="./screenshots/img17.jpg" width=30%>
+<img src="./screenshots/img18.jpg" width=30%>
+<img src="./screenshots/img19.jpg" width=30%>
+<img src="./screenshots/img20.jpg" width=30%>
+<img src="./screenshots/img21.jpg" width=30%>
+<img src="./screenshots/img22.jpg" width=30%>
+<img src="./screenshots/img23.jpg" width=30%>
+<img src="./screenshots/img24.jpg" width=30%>
+<img src="./screenshots/img25.jpg" width=30%>
 </div>
