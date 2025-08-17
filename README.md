@@ -57,7 +57,7 @@ A React Native-based mobile app that empowers users to take control of their hea
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Satyndr/healthcare-app.git
+git clone https://github.com/Satyndr/health-care-app.git
 npm install
 npm run start
 ```
